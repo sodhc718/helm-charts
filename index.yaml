@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  redisoperator:
+  - apiVersion: v1
+    created: "2020-04-29T12:24:23.671253443+07:00"
+    description: A Helm chart for the Spotahome Redis Operator
+    digest: 48695e03064335c4190ad736e2db7d33f6a7adb362e52304cfd1d94ad3d2bfd8
+    name: redisoperator
+    urls:
+    - https://sodhc718.github.io/helm-charts/redisoperator-3.1.0.tgz
+    version: 3.1.0
+generated: "2020-04-29T12:24:23.670865958+07:00"
